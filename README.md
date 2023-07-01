@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ziyad Alghamdi</h1>
-<h3 align="center">I'm currently a freshman computer science student at IAU, and I'm passionate about programming and problem-solving. I have experience with C++, Python, and HTML, and I'm excited to continue learning and exploring new technologies.</h3>
+<h4 align="center">I'm currently a freshman computer science student at IAU, and I'm passionate about programming and problem-solving.<br>I have experience with C++, Python, and HTML, and I'm excited to continue learning and exploring new technologies.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vzyx&label=Profile%20views&color=0e75b6&style=flat" alt="vzyx" /> </p>
 
